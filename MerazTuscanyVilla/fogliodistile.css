@@ -1,7 +1,10 @@
 ﻿body {
     background-color:#d0d2d1;
 }
-.page-header{
-
+h1.page-header{
+    font-family: 'Oxygen', sans-serif;
+}
+small.page-header{
+    font-family: 'Mr De Haviland', cursive;
 }
 /*footer color #e4e4e4*/
