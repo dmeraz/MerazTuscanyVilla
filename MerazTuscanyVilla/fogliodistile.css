@@ -11,5 +11,12 @@ h2{
     text-align: center;
 }
 /*Navigation*/
-
+.navbar .navbar-nav{
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+.navbar .navbar-collapse{
+    text-align: center;
+}
 /*footer color #e4e4e4*/
