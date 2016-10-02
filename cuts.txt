@@ -7,3 +7,24 @@
                 </button>
                 <a class="navbar-brand" href="#">Properties</a>
             </div>
+
+<!-- Lots of Thumbs -->
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/img-thing.jpg" alt="Thumb 1" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/314-348x348.jpg" alt="Thumb 2" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/3b-348x348.jpg" alt="Thumb 3" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/42-348x348.jpg" alt="Thumb 4" /></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/Villa-Rucellai-Toscani-2750-2-348x348.jpg" alt="Thumb 5" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/img-thing.jpg" alt="Thumb 6" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/Villa-Vanna-231-348x348.jpg" alt="Thumb 7" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/img-thing.jpg" alt="Thumb 8" /></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/img-thing.jpg" alt="Thumb 9" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/314-348x348.jpg" alt="Thumb 10" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/img-thing.jpg" alt="Thumb 11" /></div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3"><img src="images/box_partners.png" alt="Thumb 12" /></div>
+    </div>
+    <!-- END of Thumbs -->

@@ -15,9 +15,17 @@ h2{
     display: inline-block;
     float: none;
     vertical-align: top;
+    /*margin-left:0px;
+    margin-right:0px;
+    padding-left:0em;
+    padding-right:0em;*/
 }
 .navbar .navbar-collapse{
     text-align: center;
+    /*margin-left:0px;
+    margin-right:0px;
+    padding-left:0em;
+    padding-right:0em;*/
 }
 
 /*footer color #e4e4e4*/
