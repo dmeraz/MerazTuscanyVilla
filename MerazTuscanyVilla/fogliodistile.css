@@ -39,3 +39,9 @@ h1.image p.image{
     width: 100%
 }
 /*footer color #e4e4e4*/
+.panel{
+    background-color: #e4e4e4;
+}
+h1.panel{
+    text-align:left;
+}
