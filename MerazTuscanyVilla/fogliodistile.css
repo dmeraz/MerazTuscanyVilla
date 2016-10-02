@@ -27,4 +27,15 @@ h2{
     padding-left:0em;
     padding-right:0em;*/
 }
+/*Jumbotron*/
+.image {
+    position: relative;
+    width: 100%;
+}
+h1.image p.image{
+    position:absolute;
+    top: 200px;
+    left: 0;
+    width: 100%
+}
 /*footer color #e4e4e4*/
