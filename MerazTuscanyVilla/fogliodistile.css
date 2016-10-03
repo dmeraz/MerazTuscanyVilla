@@ -29,20 +29,27 @@ h2{
     padding-right:0em;*/
 }
 /*Jumbotron*/
-#feelHome #exclusive{
+/*#feelHome #exclusive{
     position: relative;
     width: 100%;
-}
+}*/
 #feelHome #exclusive{
     position:absolute;
-    top: 200px;
-    left: 0;
-    width: 100%
+    text-align:center;
+    top:100px;
+    margin:70px;
+    letter-spacing:3px;
+    font-weight:bold;
+    font-size:13px;
+    color:white;
 }
 /*Footer panel*/
 .panel{
     background-color: #e4e4e4;
 }
-h1.panel{
+.panel h1{
     text-align:left;
+}
+.panel p{
+    vertical-align: central;
 }
