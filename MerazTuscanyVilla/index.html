@@ -48,9 +48,6 @@
                     <a class="navbar-brand" href="#" id="propertiesColor">Properties</a>
                 </div>
             </div><!-- /.navbar-collapse -->
-            <!--<div class="navbar-footer navbar-right">
-                <a class="navbar-brand" href="#">Properties</a>
-            </div>-->
         </div><!-- /.container-fluid -->
     </nav>
     <!-- END Navigation -->
@@ -58,14 +55,15 @@
     <div class="jumbotron">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9" id="JumboImg">
-                <div class="image">
+                <div class="image-responsive"><!-- Created div to attempt text box overlay -->
                     <img src="images/tuscany-villas-sant-anna.jpg" alt="Tuscany Villa in Santa Anna" />
                     <h1 id="feelHome">Feels like home away from home</h1>
                     <p id="exclusive">Find your exclusive Tuscany villa for holidays</p>
                     <p><a class="btn btn-primary btn-lg" href="#" role="button"> <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a></p>
                 </div>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3" id="Map">
+            <div class="image-responsive col-xs-12 col-sm-12 col-md-4 col-lg-3" id="Map">
+                <!-- Added -responsive here and above to attempt to resolve image overlay, neither position had effect -->
                 <img src="images/Versilia.jpg" alt="Map" />
                 <p>Find your Tuscany villa</p>
                 <p>Explore the map</p>

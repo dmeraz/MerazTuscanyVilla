@@ -16,24 +16,17 @@ h2{
     display: inline-block;
     float: none;
     vertical-align: top;
-    /*margin-left:0;
-    margin-right:0;
-    padding-left:0;
-    padding-right:0;*/
 }
 .navbar .navbar-collapse{
     text-align: center;
-    /*margin-left:0px;
-    margin-right:0px;
-    padding-left:0em;
-    padding-right:0em;*/
 }
 /*Jumbotron*/
+/*Last of various attempts to overlay text box*/
 /*#feelHome #exclusive{
     position: relative;
     width: 100%;
 }*/
-#feelHome #exclusive{
+/*#feelHome #exclusive{
     position:absolute;
     text-align:center;
     top:100px;
@@ -42,7 +35,7 @@ h2{
     font-weight:bold;
     font-size:13px;
     color:white;
-}
+}*/
 /*Footer panel*/
 .panel{
     background-color: #e4e4e4;
@@ -50,6 +43,7 @@ h2{
 .panel h1{
     text-align:left;
 }
-.panel p{
-    vertical-align: central;
-}
+/*Attempt to center text along vertical axis*/
+/*.panel p{
+    vertical-align: text-bottom;
+}*/
